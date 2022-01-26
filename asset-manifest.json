@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Shopping-Cart/static/css/main.569c8d20.css",
-    "main.js": "/Shopping-Cart/static/js/main.6c29bd40.js",
-    "static/media/photo.jpg": "/Shopping-Cart/static/media/photo.e1758c225b5b838aceaf.jpg",
-    "static/media/shoe5.jpg": "/Shopping-Cart/static/media/shoe5.f813254c1a8b1e7e3b0c.jpg",
-    "static/media/shoe1.jpg": "/Shopping-Cart/static/media/shoe1.062de792269e98fc94b5.jpg",
-    "static/media/shoe.jpg": "/Shopping-Cart/static/media/shoe.8f164e689ee729cf2e7a.jpg",
-    "static/media/shoe3.jpg": "/Shopping-Cart/static/media/shoe3.7c9b6a5cac99a5a437ed.jpg",
-    "static/media/shoe2.jpg": "/Shopping-Cart/static/media/shoe2.c38a5db36dd9b013cf65.jpg",
-    "static/media/shoe4.jpg": "/Shopping-Cart/static/media/shoe4.1949b267b0257aa0a911.jpg",
-    "static/media/Odinlogo.png": "/Shopping-Cart/static/media/Odinlogo.97dcba47599bcce2d323.png",
-    "index.html": "/Shopping-Cart/index.html",
-    "main.569c8d20.css.map": "/Shopping-Cart/static/css/main.569c8d20.css.map",
-    "main.6c29bd40.js.map": "/Shopping-Cart/static/js/main.6c29bd40.js.map"
+    "main.css": "/home/static/css/main.569c8d20.css",
+    "main.js": "/home/static/js/main.a11b7121.js",
+    "static/media/photo.jpg": "/home/static/media/photo.e1758c225b5b838aceaf.jpg",
+    "static/media/shoe5.jpg": "/home/static/media/shoe5.f813254c1a8b1e7e3b0c.jpg",
+    "static/media/shoe1.jpg": "/home/static/media/shoe1.062de792269e98fc94b5.jpg",
+    "static/media/shoe.jpg": "/home/static/media/shoe.8f164e689ee729cf2e7a.jpg",
+    "static/media/shoe3.jpg": "/home/static/media/shoe3.7c9b6a5cac99a5a437ed.jpg",
+    "static/media/shoe2.jpg": "/home/static/media/shoe2.c38a5db36dd9b013cf65.jpg",
+    "static/media/shoe4.jpg": "/home/static/media/shoe4.1949b267b0257aa0a911.jpg",
+    "static/media/Odinlogo.png": "/home/static/media/Odinlogo.97dcba47599bcce2d323.png",
+    "index.html": "/home/index.html",
+    "main.569c8d20.css.map": "/home/static/css/main.569c8d20.css.map",
+    "main.a11b7121.js.map": "/home/static/js/main.a11b7121.js.map"
   },
   "entrypoints": [
     "static/css/main.569c8d20.css",
-    "static/js/main.6c29bd40.js"
+    "static/js/main.a11b7121.js"
   ]
 }
