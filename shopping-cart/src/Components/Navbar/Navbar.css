@@ -1,0 +1,57 @@
+.navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    padding: 0 100px;
+    background-color: #1F2937;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    min-height: 10vh;
+    list-style: none;
+    gap: 50px;
+  }
+  
+  ul li a{
+    text-decoration: none;
+    color: #E5E7EB;
+    font-size: 18px;
+  }
+  
+  .active{
+    text-decoration: underline;
+  }
+
+  .logo {
+      width: 50px;
+      height: 50px;
+      background-color: transparent;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+  }
+
+  .img {
+    width: 60px;
+    height: 50px;
+    cursor: pointer;
+  }
+
+.icon {
+  cursor: pointer;
+}
+
+.shop {
+  display: flex;
+  align-items: center;
+}
+
+.quantity {
+  justify-self: flex-end;
+}

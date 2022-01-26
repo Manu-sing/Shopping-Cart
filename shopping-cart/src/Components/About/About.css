@@ -1,0 +1,22 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    margin: 100px 0;
+}
+
+.about {
+   margin-top: 30px;
+   width: 70%;
+   height: auto;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   gap: 15px;
+}
+
+.aboutImg {
+  width: 100%;
+  height: auto;
+}
