@@ -4,8 +4,7 @@
     grid-template-columns: repeat(3, minmax(60px, 300px));
     justify-content: center;
     align-content: center;
-   
-   
+
 }
 .wrapper {
     display: flex;

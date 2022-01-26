@@ -12,7 +12,7 @@ const Navbar = ({ cart }) => {
     <div className="links">
         <ul >
         <li >
-            <NavLink to="/" className={({ isActive }) => (isActive ? 'active' : 'inactive')}>Home</NavLink>
+            <NavLink to="/home" className={({ isActive }) => (isActive ? 'active' : 'inactive')}>Home</NavLink>
         </li>
         <li >
             <NavLink to="/about" className={({ isActive }) => (isActive ? 'active' : 'inactive')}>About</NavLink>
@@ -20,7 +20,7 @@ const Navbar = ({ cart }) => {
         <li >
             <NavLink to="/shop" className={({ isActive }) => (isActive ? 'active' : 'inactive')}>Shop</NavLink>
         </li>
-        <div className="shop"><FaShoppingCart className="icon" size={20} style={iconStyle} /><p style={{color: "white"}}>{cart}</p></div>
+        <div className="shop"><FaShoppingCart className="icon" size={20} style={iconStyle} /><p className="quantity" style={{color: "white"}}>{cart}</p></div>
       </ul>
       
     </div>
